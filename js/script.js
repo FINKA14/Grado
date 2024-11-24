@@ -19,9 +19,8 @@ document.getElementById("content").addEventListener("click", () => {
                         <p>Tu dedicación y esfuerzo han dado frutos, y este es solo el comienzo de todos los éxitos que te esperan.</p>
                         <p>De verdad lamento no poder estar ahi contigo el dia de hoy.</p>
                         <p>Pero por medio de este pequeño mensaje quiero felicitarte y recordarte que este chico aun te quiere un monton y aun le importas.</p>
-                        <p>Se lo que tal vez hayas visto o escuchado, pero no te puedo mentir a ti.</p>
-                        <p>Con quien aun sueño cada noche y pienso cada dia es contigo aunque no me creas.</p>
-                        <p>Se que en este momento pienses que soy un mentiroso y no confies en mi, me lo merezco.</p>
+                        <p>Sueño contigo aun cada noche y te pienso a diario deseando que te encuentres bien y te este llendo bien</p>
+                        <p>Se que tal vez no confies en mi y no creas en lo que te digo, me lo merezco.</p>
                         <p>Y aunque sea asi, queria decirte esto, por que aun sigues siendo una persona importante para mí.</p>
                         <p>Siempre voy a estar orgulloso de ti y de todos tus logros, te deseo que tu camino este lleno de exitos y oportunidades.</p>
                         <p>Espero sigas siendo esa maravillosa persona que siempre has sido.</p>
